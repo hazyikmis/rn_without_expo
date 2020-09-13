@@ -32,3 +32,9 @@ npx react-native init rn_without_expo
 > Run instructions for Windows and macOS:
 
 - See https://aka.ms/ReactNative for the latest up-to-date instructions.
+
+> To run in android emulator
+
+```
+npx react-native run-android
+```
